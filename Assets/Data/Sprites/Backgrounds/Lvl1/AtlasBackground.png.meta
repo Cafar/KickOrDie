@@ -1,0 +1,168 @@
+fileFormatVersion: 2
+guid: 9e27168b2f675a941a0f772acd4c0648
+timeCreated: 1443458402
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Mountains1
+    21300002: Mountains2
+    21300004: Mountains3
+    21300006: Mountain4
+    21300008: BackMountains
+    21300010: BotClouds
+    21300012: TopClouds
+    21300014: Sky
+    21300016: Floor
+    21300018: Mountain2
+    21300020: Mountain1-2
+    21300022: Mountain1-3
+    21300024: Mountain3
+    21300026: AtlasBackground_0
+    21300028: Mount3
+    21300030: Mount4
+    21300032: Mount1
+    21300034: Mount2
+    21300036: Background
+    21300038: FrontClouds
+    21300040: BackMountain
+    21300042: BackClouds
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: 0
+    aniso: 0
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0, y: 1}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 25
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Mount3
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 820
+        width: 313
+        height: 148
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mount4
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 820
+        width: 313
+        height: 148
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mount1
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 613
+        width: 313
+        height: 148
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mount2
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 613
+        width: 313
+        height: 148
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Background
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 514
+        width: 71
+        height: 82
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FrontClouds
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 380
+        width: 313
+        height: 101
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Floor
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 54
+        width: 313
+        height: 305
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BackMountain
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 203
+        width: 313
+        height: 109
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BackClouds
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 387
+        width: 296
+        height: 93
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,441 @@
+fileFormatVersion: 2
+guid: 368fa252620fe481e86506224a6e8f52
+timeCreated: 1448534733
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: HUD_atlas_0
+    21300002: HUD_atlas_1
+    21300004: HUD_atlas_2
+    21300006: HUD_atlas_3
+    21300008: HUD_atlas_4
+    21300010: HUD_atlas_5
+    21300012: HUD_atlas_6
+    21300014: HUD_atlas_7
+    21300016: HUD_atlas_8
+    21300018: HUD_atlas_9
+    21300020: HUD_atlas_10
+    21300022: HUD_atlas_11
+    21300024: HUD_atlas_12
+    21300026: HUD_atlas_13
+    21300028: HUD_atlas_14
+    21300030: HUD_atlas_15
+    21300032: HUD_atlas_16
+    21300034: HUD_atlas_17
+    21300036: HUD_atlas_18
+    21300038: HUD_atlas_19
+    21300040: HUD_atlas_20
+    21300042: HUD_atlas_21
+    21300044: HUD_atlas_22
+    21300046: HUD_atlas_23
+    21300048: HUD_atlas_24
+    21300050: HUD_atlas_25
+    21300052: HUD_atlas_26
+    21300054: HUD_atlas_27
+    21300056: HUD_atlas_28
+    21300058: HUD_atlas_29
+    21300060: HUD_atlas_30
+    21300062: HUD_atlas_31
+    21300064: HUD_atlas_32
+    21300066: HUD_atlas_33
+    21300068: HUD_atlas_34
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 25
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: HUD_atlas_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 487
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HUD_atlas_1
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 487
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HUD_atlas_2
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 487
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HUD_atlas_3
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 487
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HUD_atlas_4
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 457
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 17, y: 0, z: 18, w: 0}
+    - name: HUD_atlas_5
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 458
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 16, y: 2, z: 17, w: 2}
+    - name: HUD_atlas_6
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 494
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HUD_atlas_7
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 438
+        width: 62
+        height: 59
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 21, y: 17, z: 19, w: 19}
+    - name: HUD_atlas_8
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 380
+        width: 54
+        height: 62
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 23, y: 27, z: 23, w: 26}
+    - name: HUD_atlas_9
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 391
+        width: 40
+        height: 37
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HUD_atlas_10
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 389
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HUD_atlas_11
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 390
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HUD_atlas_12
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 395
+        width: 47
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HUD_atlas_13
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 392
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HUD_atlas_14
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 397
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HUD_atlas_15
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 338
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HUD_atlas_16
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 352
+        width: 28
+        height: 23
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HUD_atlas_17
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 285
+        width: 77
+        height: 92
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HUD_atlas_18
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 351
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HUD_atlas_19
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 285
+        width: 65
+        height: 92
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 25, y: 29, z: 21, w: 30}
+    - name: HUD_atlas_20
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 336
+        width: 90
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HUD_atlas_21
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 485
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 8, y: 5, z: 5, w: 5}
+    - name: HUD_atlas_22
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 187
+        width: 87
+        height: 70
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HUD_atlas_23
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 182
+        width: 138
+        height: 72
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HUD_atlas_24
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 292
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HUD_atlas_25
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 292
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HUD_atlas_26
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 290
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HUD_atlas_27
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 485
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HUD_atlas_28
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 480
+        width: 34
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HUD_atlas_29
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 393
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HUD_atlas_30
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 394
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HUD_atlas_31
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 396
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HUD_atlas_32
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 197
+        width: 76
+        height: 52
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 11, y: 9, z: 20, w: 8}
+    - name: HUD_atlas_33
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 326
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HUD_atlas_34
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 286
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,243 @@
+fileFormatVersion: 2
+guid: 6012bc1a67cb3402a9fb7223ec00d6da
+timeCreated: 1445256356
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: atlaslvl2_0
+    21300002: atlaslvl2_1
+    21300004: atlaslvl2_2
+    21300006: atlaslvl2_3
+    21300008: atlaslvl2_4
+    21300010: atlaslvl2_5
+    21300012: atlaslvl2_6
+    21300014: atlaslvl2_7
+    21300016: atlaslvl2_8
+    21300018: atlaslvl2_9
+    21300020: atlaslvl2_10
+    21300022: atlaslvl2_11
+    21300024: atlaslvl2_12
+    21300026: atlaslvl2_13
+    21300028: atlaslvl2_14
+    21300030: atlaslvl2_15
+    21300032: atlaslvl2_16
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -2
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 25
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: atlaslvl2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1818
+        width: 272
+        height: 230
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: atlaslvl2_1
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 1818
+        width: 272
+        height: 230
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: atlaslvl2_2
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 1818
+        width: 272
+        height: 230
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: atlaslvl2_3
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 1818
+        width: 272
+        height: 230
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: atlaslvl2_4
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 1818
+        width: 272
+        height: 230
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: atlaslvl2_5
+      rect:
+        serializedVersion: 2
+        x: 1575
+        y: 1818
+        width: 272
+        height: 230
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: atlaslvl2_6
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 1586
+        width: 272
+        height: 230
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: atlaslvl2_7
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 1586
+        width: 272
+        height: 230
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: atlaslvl2_8
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 1558
+        width: 313
+        height: 258
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: atlaslvl2_9
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 1558
+        width: 313
+        height: 258
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: atlaslvl2_10
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 1558
+        width: 313
+        height: 258
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: atlaslvl2_11
+      rect:
+        serializedVersion: 2
+        x: 1565
+        y: 1558
+        width: 313
+        height: 258
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: atlaslvl2_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1298
+        width: 313
+        height: 258
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: atlaslvl2_13
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 1298
+        width: 313
+        height: 258
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: atlaslvl2_14
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 1298
+        width: 313
+        height: 258
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: atlaslvl2_15
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 1298
+        width: 313
+        height: 258
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: atlaslvl2_16
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 1201
+        width: 313
+        height: 355
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

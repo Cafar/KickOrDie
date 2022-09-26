@@ -1,0 +1,188 @@
+fileFormatVersion: 2
+guid: 71776829cf4554604a285837c121c0dd
+timeCreated: 1443798479
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: special attack atlas_0
+    21300002: special attack atlas_1
+    21300004: special attack atlas_2
+    21300006: special attack atlas_3
+    21300008: special attack atlas_4
+    21300010: special attack atlas_5
+    21300012: special attack atlas_6
+    21300014: special attack atlas_7
+    21300016: special attack atlas_8
+    21300018: special attack atlas_9
+    21300020: special attack atlas_10
+    21300022: special attack atlas_11
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -2
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 25
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: special attack atlas_0
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 1386
+        width: 311
+        height: 551
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: special attack atlas_1
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 1386
+        width: 311
+        height: 551
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: special attack atlas_2
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 1386
+        width: 311
+        height: 551
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: special attack atlas_3
+      rect:
+        serializedVersion: 2
+        x: 1235
+        y: 1386
+        width: 311
+        height: 551
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: special attack atlas_4
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 788
+        width: 311
+        height: 551
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: special attack atlas_5
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 788
+        width: 311
+        height: 551
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: special attack atlas_6
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 788
+        width: 311
+        height: 551
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: special attack atlas_7
+      rect:
+        serializedVersion: 2
+        x: 1225
+        y: 788
+        width: 311
+        height: 551
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: special attack atlas_8
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 190
+        width: 311
+        height: 551
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: special attack atlas_9
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 190
+        width: 311
+        height: 551
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: special attack atlas_10
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 188
+        width: 311
+        height: 551
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: special attack atlas_11
+      rect:
+        serializedVersion: 2
+        x: 1225
+        y: 188
+        width: 311
+        height: 551
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
