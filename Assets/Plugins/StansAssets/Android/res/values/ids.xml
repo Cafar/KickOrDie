@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Google Play game services IDs.
+Save this file as res/values/games-ids.xml in your project.
+-->
+<resources>
+  <string name="app_id">411539177333</string>
+  <string name="package_name">com.boomfiregames.kickordie</string>
+  <string name="achievement_twinkiller">CgkI9f6Vjf0LEAIQAw</string>
+  <string name="achievement_mitsuyoshikiller">CgkI9f6Vjf0LEAIQBA</string>
+  <string name="achievement_quickkick">CgkI9f6Vjf0LEAIQBQ</string>
+  <string name="achievement_globetrotter">CgkI9f6Vjf0LEAIQBg</string>
+  <string name="achievement_the_untouchable">CgkI9f6Vjf0LEAIQBw</string>
+  <string name="achievement_the_beginning">CgkI9f6Vjf0LEAIQCA</string>
+  <string name="achievement_master">CgkI9f6Vjf0LEAIQCQ</string>
+  <string name="achievement_genin">CgkI9f6Vjf0LEAIQCg</string>
+  <string name="achievement_chunin">CgkI9f6Vjf0LEAIQCw</string>
+  <string name="achievement_jonin">CgkI9f6Vjf0LEAIQDA</string>
+  <string name="achievement_kage">CgkI9f6Vjf0LEAIQDQ</string>
+  <string name="achievement_appreciated">CgkI9f6Vjf0LEAIQDg</string>
+  <string name="achievement_facebook">CgkI9f6Vjf0LEAIQDw</string>
+  <string name="achievement_addfree">CgkI9f6Vjf0LEAIQEA</string>
+  <string name="leaderboard_ranking">CgkI9f6Vjf0LEAIQAg</string>
+</resources>
